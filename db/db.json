@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "employeeno": "10001",
+      "name": "aditya jain",
+      "city": "Bhopal",
+      "salary": "45000",
+      "id": "1"
+    },
+    {
+      "employeeno": "10002",
+      "name": "Shubham kose",
+      "city": "Indore",
+      "salary": "45000",
+      "id": "7e38"
+    },
+    {
+      "employeeno": "10003",
+      "name": "Pawan pathariya",
+      "city": "Delhi",
+      "salary": "45000",
+      "id": "942a"
+    },
+    {
+      "employeeno": "10004",
+      "name": "Ram Maheshwari",
+      "city": "Pune",
+      "salary": "45000",
+      "id": "fa22"
+    },
+    {
+      "employeeno": "10005",
+      "name": "Renu verma",
+      "city": "Gwalior",
+      "salary": "45000",
+      "id": "532e"
+    }
+  ]
+}
